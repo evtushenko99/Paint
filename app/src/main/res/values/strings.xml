@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="description_tool">Переключить инструмент</string>
+    <string-array name="spinner">
+        <item name="drawLine">Line</item>
+        <item name="drawCurveLine">Curve line</item>
+        <item name="drawRectangle">Rectangle</item>
+        <item name="drawPolygon">Polygon</item>
+    </string-array>
+</resources>
